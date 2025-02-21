@@ -1,7 +1,12 @@
 h1, h2, p {
     text-align: center;
 }
-#menu {
-    width: 300px;
+body {
+    background-image: url();
+}
+.menu {
+    width: 80%;
     background-color: burlywood;
+    margin-left: auto;
+    margin-left: auto;
 }
