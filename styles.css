@@ -5,6 +5,15 @@ body {
     background-image: url(drawn-coffee-bean-seamless-background-pattern-with-falling-coffee-beans-food-doodle-sketch-backdrop-vector.jpg);
     font-family: sans-serif;
 }
+h1 {
+    font-size: 40px;
+  }
+h2 {
+    font-size: 30px;
+  }
+.established {
+    font-style: italic;
+  }
 .menu {
     width: 80%;
     background-color: burlywood;
@@ -14,7 +23,7 @@ body {
     max-width: 500px;
 }
 h1, h2 {
-    font-family: Impact;
+    font-family: Impact, serif;
 }
 .flavor, .dessert {
     text-align: left;
